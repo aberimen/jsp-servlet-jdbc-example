@@ -1,10 +1,7 @@
 package servletdeneme;
 
-import java.sql.Blob;
-
 public class Book {
 	private int ID;
-	private Blob image;
 	private String title;
 	private String author;
 	private int pages;
@@ -32,14 +29,6 @@ public class Book {
 
 	public void setID(int iD) {
 		ID = iD;
-	}
-
-	public Blob getImage() {
-		return image;
-	}
-
-	public void setImage(Blob image) {
-		this.image = image;
 	}
 
 	public String getTitle() {
