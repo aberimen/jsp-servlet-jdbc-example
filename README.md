@@ -1,4 +1,4 @@
 # jsp-servlet-jdbc-example
 
 # Arayüz
-![](ss.png)
+![](ss1.png)
